@@ -9,7 +9,7 @@ An interactive web application that displays real-time weather conditions and pr
 - 🌧️ Current weather details (temperature, humidity, wind speed, etc.)
 - ⏳ **Hourly temperature prediction** for the next 24 hours using a trained **LSTM model**
 - ⚡ Weather icons adapt based on condition (sunny, cloudy, rainy, etc.)
-- 🌐 Live data pulled using **OpenWeather API** and **OpenMeteo API**
+- 🌐 Live data pulled using **OpenWeather API** 
 - ⚖️ Backend powered by **FastAPI** for ML inference
 
 ## 📁 Tech Stack
