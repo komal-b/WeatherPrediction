@@ -87,9 +87,10 @@ Then run the frontend:
 npm start
 ```
 
-## 📈 Demo & Screenshots
+## 📈 Screenshot
 
-(Insert screenshots or a demo link here if hosted)
+<img width="1456" alt="image" src="https://github.com/user-attachments/assets/fb03fb7b-72b8-4ff6-8d00-9ef9d6ba8208" />
+
 
 ## 📡 API Reference
 
