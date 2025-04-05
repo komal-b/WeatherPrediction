@@ -1,4 +1,4 @@
-# Weather Prediction Dashboard ⛅️
+# Weather Prediction ⛅️
 
 An interactive web application that displays real-time weather conditions and predicts the next 24-hour temperature forecast using an LSTM-based machine learning model.
 
